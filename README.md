@@ -25,7 +25,7 @@ This project incorporates the following concepts learned during the second year 
 # How to use
 Once you have done the ` How to run this project` section:
 - You will need to create an account, you will be assigned an access level of "basic". In the API's database there is an admin account created through Postman that can also be used.
-- Depending on your accounts access level you can
+Depending on your accounts access level you can:
 -   Vote/Like (basic access)
 -   Create a new Queen/Runway (admin access)
 -   Update a Queen/Runway's attributes (admin access)
